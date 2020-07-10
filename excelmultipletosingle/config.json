@@ -1,0 +1,11 @@
+﻿[
+
+  {
+    "path": "C:\\Users\\78575\\Desktop\\江河湖库数据处理\\一、历史洪水数据处理成果\\1-1、逐小时雨量-【兰溪站以上流域】-用于计算兰溪站以上面雨量.xlsx",
+    "fileds": [ "STCD", "STNM", "TM", "DRP" ],
+    "sheetName": "sheet1",
+    "space": 1,
+    "lastcol": 3964
+  }
+
+]
