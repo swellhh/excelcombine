@@ -1,0 +1,5 @@
+/excelmultipletosingle/obj/*.props
+/excelmultipletosingle/obj/*.targets
+/excelmultipletosingle/obj/*.json
+/excelmultipletosingle/obj/*
+/excelmultipletosingle/obj/*.cache
